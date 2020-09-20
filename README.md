@@ -1,5 +1,5 @@
 # VueJs/Vuex Authentication on Strapi CMS
-# This is a simple template for Strapi CMS authentication and registration, you can use it to get your projects up and running quickly.
+### This is a simple template for Strapi CMS authentication and registration, you can use it to get your projects up and running quickly.
 
 ## Build Setup
 
